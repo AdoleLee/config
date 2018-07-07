@@ -11,6 +11,7 @@
     <modules>
         <module>config-service</module>
         <module>config-client</module>
+        <module>config-demo</module>
     </modules>
     <dependencies>
         <dependency>
